@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Relaxing_Koala_ (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Relaxing_Koala_ (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

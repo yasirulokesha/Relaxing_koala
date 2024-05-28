@@ -1,0 +1,15 @@
+App.xbf
+MainWindow.xbf
+Styles\FontSizes.xbf
+Styles\TextBlock.xbf
+Styles\Thickness.xbf
+Views\DashboardPage.xbf
+Views\LoginPage.xbf
+Views\MakeOrderPage.xbf
+Views\MakeReservationPage.xbf
+Views\MenuPage.xbf
+Views\OrdersDetailControl.xbf
+Views\OrdersPage.xbf
+Views\ReservationsPage.xbf
+Views\SettingsPage.xbf
+Views\ShellPage.xbf
